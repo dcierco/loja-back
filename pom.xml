@@ -54,25 +54,22 @@
 			<version>1.18.12</version>
 			<scope>provided</scope>
 		</dependency>
-		<dependency>
-			<groupId>io.springfox</groupId>
-			<artifactId>springfox-swagger2</artifactId>
-			<version>2.9.2</version>
+
+		<dependency> 
+			<groupId>io.springfox</groupId> 
+			<artifactId>springfox-boot-starter</artifactId> 
+			<version>3.0.0</version> 
 		</dependency>
-		<dependency>
-			<groupId>io.springfox</groupId>
-			<artifactId>springfox-swagger-ui</artifactId>
-			<version>2.9.2</version>
-		</dependency>
+		
 		<dependency>
 			<groupId>io.rest-assured</groupId>
 			<artifactId>rest-assured</artifactId>
-			<version>4.3.0</version>
+			<version>4.3.3</version>
 		</dependency>
 		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
-			<version>7.0.0</version>
+			<version>7.4.0</version>
 		</dependency>
 
 	</dependencies>
